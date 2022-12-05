@@ -10,3 +10,9 @@
  ```bash
  git clone git@github.com:Makalou/simplePBD
  ```
+ ## Build
+ Under the project root path, open terminal and enter
+ ```bash
+ mkdir build
+ cd build
+ ```
