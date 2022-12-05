@@ -21,3 +21,11 @@
  ```
  Then CMake should automatically check dependencies and generate platform-specific project manage file : (e.g. .sln on Windows).
  You can then open the project within your favorite IDE then build and run.
+
+ ## Dependency
+ - Vulkan
+ - glfw
+ - glm
+ - imgui
+ - tinyobjloader
+ Please make sure that the path to Vulkan dir has been added to the environment variable thus CMake can find it properly. 
